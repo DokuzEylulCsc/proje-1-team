@@ -1,0 +1,7 @@
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\ProjeDeneme.exe.config
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\ProjeDeneme.exe
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\ProjeDeneme.pdb
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\ProjeDeneme.csprojAssemblyReference.cache
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\ProjeDeneme.csproj.CoreCompileInputs.cache
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\ProjeDeneme.exe
+C:\Users\emrem\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\ProjeDeneme.pdb
